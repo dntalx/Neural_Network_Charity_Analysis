@@ -19,3 +19,5 @@ This project was intended to predict if companies will be successful if Alphabet
 ![Alt text](https://github.com/dntalx/Neural_Network_Charity_Analysis/blob/main/Resources/Screen%20Shot%202022-11-02%20at%2010.41.27%20PM.png)
 
 ## Summary
+
+On Average my models kept around 73% accuracy score which is decent considering it was an improvement. My recommendation to improve this model would be to find better features to help explain what determines "IS_SUCCESFUL" such as more indepth knowledge of the other associates/ firms being funded.
